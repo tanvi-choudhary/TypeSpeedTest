@@ -1,0 +1,74 @@
+#TypeSpeed{
+    text-align: center;
+}
+#container {
+    display: grid;
+    grid-gap: 30px;  
+    grid-template-columns: repeat(5, 100px); 
+    grid-auto-rows: 1fr;
+    padding-left: 300px;
+  }
+  #Errors{
+    background-color: rgb(166, 201, 63);
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px 4px black;
+    color:black;
+    font-weight: bold;
+    font-size: 10px;
+    width: 100px;
+    height: 80px;
+} 
+#Time{
+    background-color: rgb(166, 201, 63);
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px 4px black;
+    color:black;
+    font-weight: bold;
+    font-size: 10px;
+    width: 100px;
+    height: 80px;
+} 
+  
+ #Accu{
+    background-color: rgb(166, 201, 63);
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px 4px black;
+    color:black;
+    font-weight: bold;
+    font-size: 10px;
+    width: 100px;
+    height: 80px;
+} 
+#WPM{
+    background-color: rgb(166, 201, 63);
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px 4px black;
+    color:black;
+    font-weight: bold;
+    font-size: 10px;
+    width: 100px;
+    height: 80px;
+} 
+#CPM{
+    background-color: rgb(166, 201, 63);
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px 4px black;
+    color:black;
+    font-weight: bold;
+    font-size: 10px;
+    width: 100px;
+    height: 80px;
+} 
+p{
+    font-size: 25px;
+}
+#Click{
+    background-color: rgb(166, 201, 63);
+    width: 300px;
+    height: 50px;
+} 
+#type{
+    background-color: rgb(235, 246, 172);
+    width: 500px;
+    height: 70px;
+}
